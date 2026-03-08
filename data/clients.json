@@ -1,0 +1,98 @@
+[
+  {
+    "id": "client-microsoft",
+    "name": "Microsoft",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://microsoft.com&size=256",
+    "testimonial": "Their collaboration elevated our event presence." 
+  },
+  {
+    "id": "client-google",
+    "name": "Google",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://google.com&size=256",
+    "testimonial": "Exceptional technical delivery and creative thinking."
+  },
+  {
+    "id": "client-tata",
+    "name": "TATA",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://tata.com&size=256",
+    "testimonial": "A reliable partner for large-scale activations."
+  },
+  {
+    "id": "client-schneider",
+    "name": "Schneider",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://se.com&size=256",
+    "testimonial": "Technical expertise matched with beautiful design."
+  },
+  {
+    "id": "client-pg",
+    "name": "P&G",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pg.com&size=256",
+    "testimonial": "A seamless execution across multiple venues."
+  },
+  {
+    "id": "client-pepsico",
+    "name": "PepsiCo",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pepsico.com&size=256",
+    "testimonial": "Creative ideas delivered with precision."
+  },
+  {
+    "id": "client-pidilite",
+    "name": "Pidilite",
+    "logoUrl": "https://assets.pidilite.com/is/image/pidilite/pidilite-logo-1?dpr=off",
+    "testimonial": "Great results and excellent communication."
+  },
+  {
+    "id": "client-totalenergies",
+    "name": "TotalEnergies",
+    "logoUrl": "https://totalenergies.com/themes/custom/totalenergies_com/dist/img/logo_totalenergies.png",
+    "testimonial": "Delivered an immersive brand experience for our launch."
+  },
+  {
+    "id": "client-yesbank",
+    "name": "Yes Bank",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Yes_Bank_logo.svg",
+    "testimonial": "Professional, punctual and highly skilled."
+  },
+  {
+    "id": "client-icici",
+    "name": "ICICI Lombard",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://icicilombard.com&size=256",
+    "testimonial": "Strong strategic thinking and flawless delivery."
+  },
+  {
+    "id": "client-kotak",
+    "name": "Kotak Bank",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Kotak_Mahindra_Bank_logo.svg",
+    "testimonial": "Our go-to partner for experiential tech."
+  },
+  {
+    "id": "client-zurich",
+    "name": "Zurich Kotak",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://zurich.com&size=256",
+    "testimonial": "Excellent creative and production standards."
+  },
+  {
+    "id": "client-glenmark",
+    "name": "Glenmark",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://glenmarkpharma.com&size=256",
+    "testimonial": "Highly collaborative and results-driven."
+  },
+  {
+    "id": "client-pfizer",
+    "name": "Pfizer",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://pfizer.com&size=256",
+    "testimonial": "Delivered an impactful, compliant experience."
+  },
+  {
+    "id": "client-marico",
+    "name": "Marico",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://marico.com&size=256",
+    "testimonial": "Smart use of technology to elevate the brand."
+  },
+  {
+    "id": "client-abbott",
+    "name": "Abbott",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://abbott.com&size=256",
+    "testimonial": "Professional team and excellent outcomes."
+  }
+]
