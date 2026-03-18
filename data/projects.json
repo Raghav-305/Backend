@@ -1,121 +1,85 @@
 [
   {
     "id": "osaka-2025-led-content",
-    "title": "Osaka 2025",
+    "title": "Osaka 2025 LED Showcase",
     "slug": "osaka-2025-led-content",
-    "summary": "LED content showcase for Govt. of Telangana at Osaka 2025.",
-    "categories": [
-      "LED Content"
-    ],
+    "categories": ["LED Content"],
     "client": "Govt. of Telangana",
-    "location": "Osaka",
-    "date": "2025-01-01",
-    "videoUrl": "https://drive.google.com/file/d/1jUV1e8lNi9ExVIP6pzk9xQWN5mIffcEa/view?usp=sharing",
+    "location": "Osaka, Japan",
+    "date": "2025-04-01",
+    "videoId": "1jUV1e8lNi9ExVIP6pzk9xQWN5mIffcEa",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "20M+ views"
-      }
+      { "label": "Engagement", "value": "20M+ views" }
     ],
     "metadata": {}
   },
   {
-    "id": "india-energy-week-2025",
-    "title": "India Energy Week 2025",
+    "id": "india-energy-week-2025-interactive",
+    "title": "India Energy Week 2025 Experience",
     "slug": "india-energy-week-2025-interactive-displays",
-    "summary": "Interactive displays experience for Total Energies at India Energy Week 2025.",
-    "categories": [
-      "Interactive Displays"
-    ],
-    "client": "Total Energies",
+    "categories": ["Interactive Displays"],
+    "client": "TotalEnergies",
     "location": "India",
-    "date": "2025-01-01",
-    "videoUrl": "https://drive.google.com/file/d/1URCOlKDfG-UVbxw0nJfIc1yquEVW5Nc4/view?usp=share_link",
+    "date": "2025-02-15",
+    "videoId": "1URCOlKDfG-UVbxw0nJfIc1yquEVW5Nc4",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "50K+ interactions"
-      }
+      { "label": "Engagement", "value": "50K+ interactions" }
     ],
     "metadata": {}
   },
   {
     "id": "lmai-2025-ai-video-booth",
-    "title": "LMAI Conference 2025",
-    "slug": "lmai-conference-2025-registration-photo-op",
-    "summary": "AI video booth setup for registration and photo-op at LMAI Conference 2025.",
-    "categories": [
-      "Registration & Photo Op"
-    ],
+    "title": "LMAI Conference 2025 AI Booth",
+    "slug": "lmai-2025-ai-video-booth",
+    "categories": ["AI Booth", "Photo Experience"],
     "client": "AI Video Booth",
     "location": "India",
-    "date": "2025-01-01",
-    "videoUrl": "https://drive.google.com/file/d/15bI9nnI8419LwwdkiSdxrX_yt4Q5iP-U/view?usp=share_link",
+    "date": "2025-03-10",
+    "videoId": "15bI9nnI8419LwwdkiSdxrX_yt4Q5iP-U",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "1K+ interactions"
-      }
+      { "label": "Engagement", "value": "1K+ interactions" }
     ],
     "metadata": {}
   },
   {
-    "id": "lays-brand-activation-ar-photo-booth",
-    "title": "Brand Activation",
-    "slug": "lays-brand-activation-ar-photo-booth",
-    "summary": "AR photo booth featuring Dhoni and Ranbir Kapoor for Lays by PepsiCo.",
-    "categories": [
-      "AR Photo Booth"
-    ],
-    "client": "Lays by PepsiCo",
+    "id": "lays-ar-photo-booth",
+    "title": "Lay’s AR Photo Booth Campaign",
+    "slug": "lays-ar-photo-booth-dhoni-ranbir",
+    "categories": ["AR Experience", "Photo Booth"],
+    "client": "Lay’s (PepsiCo)",
     "location": "India",
-    "date": "2025-01-01",
-    "videoUrl": "https://drive.google.com/file/d/1m2Az__dpksWGlEM4VZ_Rawv9zczL2PjX/view?usp=sharing",
+    "date": "2025-01-20",
+    "videoId": "1m2Az__dpksWGlEM4VZ_Rawv9zczL2PjX",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "5K+ interactions"
-      }
+      { "label": "Engagement", "value": "5K+ interactions" }
     ],
     "metadata": {}
   },
   {
-    "id": "dabur-brand-activation-anamorphic",
-    "title": "Brand Activation",
-    "slug": "dabur-brand-activation-anamorphic-content",
-    "summary": "Anamorphic content activation for Dabur.",
-    "categories": [
-      "Anamorphic Content"
-    ],
+    "id": "dabur-anamorphic-campaign",
+    "title": "Dabur Anamorphic Campaign",
+    "slug": "dabur-anamorphic-content",
+    "categories": ["Anamorphic Content"],
     "client": "Dabur",
     "location": "India",
-    "date": "2025-01-01",
-    "videoUrl": "https://drive.google.com/file/d/1vg7UrvCH8O9gLLrHqYfmEV43J9S8wLAG/view?usp=share_link",
+    "date": "2025-01-10",
+    "videoId": "1vg7UrvCH8O9gLLrHqYfmEV43J9S8wLAG",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "30K+ views"
-      }
+      { "label": "Engagement", "value": "30K+ views" }
     ],
     "metadata": {}
   },
   {
     "id": "pragati-2024-kinect-game",
-    "title": "Pragati 2024",
-    "slug": "pragati-2024-kinect-sensor-game",
-    "summary": "Kinect sensor-based game activation for Pragati 2024.",
-    "categories": [
-      "Kinect Sensor based Game"
-    ],
+    "title": "Pragati 2024 Interactive Game",
+    "slug": "pragati-2024-kinect-game",
+    "categories": ["Interactive Game", "Kinect Experience"],
     "client": "Pragati 2024",
     "location": "India",
-    "date": "2024-01-01",
-    "videoUrl": "https://drive.google.com/file/d/1cTlfRUr4ViIIbXdAdURXOwaKy0hPbdCP/view?usp=sharing",
+    "date": "2024-11-05",
+    "videoId": "1cTlfRUr4ViIIbXdAdURXOwaKy0hPbdCP",
     "stats": [
-      {
-        "label": "Engagement",
-        "value": "5K+ interactions"
-      }
+      { "label": "Engagement", "value": "5K+ interactions" }
     ],
     "metadata": {}
   }
